@@ -55,7 +55,6 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
 *.aab
 *.unitypackage
 
@@ -68,3 +67,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Firebase ignore
+/[Aa]ssets/Firebase/
+/[Aa]ssets/Plugins/

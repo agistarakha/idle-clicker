@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530904799813",
+    "project_id": "incrementalgame-74d9c",
+    "storage_bucket": "incrementalgame-74d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530904799813:android:2d39c7ed80886e13e7e12c",
+        "android_client_info": {
+          "package_name": "com.solocialink.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530904799813-qhuq0vfjnbm2f0bg0saije491ddug06r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsxGpY5SYEKI8iamBhFc5G4QhQiEr564"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530904799813-qhuq0vfjnbm2f0bg0saije491ddug06r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
